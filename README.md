@@ -13,7 +13,7 @@ A panel data econometric analysis evaluating how institutional quality affected 
 
 Fixed Effects estimation confirms that structural institutions have low temporal variance and do not drive year-over-year baseline GDP growth in the short term. However, interacting institutional dimensions with the 2020-2021 shock period reveals a statistically significant cushioning effect: countries with stronger baseline governance experienced less severe GDP contractions relative to their peers.
 
-## 📉 Econometric Specification
+##  Econometric Specification
 
 The core framework maps lagged institutional characteristics against real economic outcomes at time $t$:
 
